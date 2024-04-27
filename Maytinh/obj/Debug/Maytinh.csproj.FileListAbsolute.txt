@@ -1,0 +1,40 @@
+C:\Users\chien\Desktop\Maytinh\Maytinh\bin\Debug\Maytinh.exe.config
+C:\Users\chien\Desktop\Maytinh\Maytinh\bin\Debug\Maytinh.exe
+C:\Users\chien\Desktop\Maytinh\Maytinh\bin\Debug\Maytinh.pdb
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.csproj.AssemblyReference.cache
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.Form1.resources
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.Properties.Resources.resources
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.csproj.GenerateResource.cache
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.csproj.CoreCompileInputs.cache
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.exe
+C:\Users\chien\Desktop\Maytinh\Maytinh\obj\Debug\Maytinh.pdb
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\bin\Debug\Maytinh.exe.config
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\bin\Debug\Maytinh.exe
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\bin\Debug\Maytinh.pdb
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.csproj.AssemblyReference.cache
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.Form1.resources
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.Properties.Resources.resources
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.csproj.GenerateResource.cache
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.csproj.CoreCompileInputs.cache
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.exe
+D:\Project GitHub\Clone project may tinh boi tui\Maytinh\Caculator\Maytinh\obj\Debug\Maytinh.pdb
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\bin\Debug\Maytinh.exe.config
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\bin\Debug\Maytinh.exe
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\bin\Debug\Maytinh.pdb
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.csproj.AssemblyReference.cache
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.Form1.resources
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.Properties.Resources.resources
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.csproj.GenerateResource.cache
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.csproj.CoreCompileInputs.cache
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.exe
+C:\Users\chien\Desktop\MayTinh\calculator\Maytinh\obj\Debug\Maytinh.pdb
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\bin\Debug\Maytinh.exe.config
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\bin\Debug\Maytinh.exe
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\bin\Debug\Maytinh.pdb
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.csproj.AssemblyReference.cache
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.Form1.resources
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.Properties.Resources.resources
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.csproj.GenerateResource.cache
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.csproj.CoreCompileInputs.cache
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.exe
+D:\Project GitHub\Clone project may tinh boi tui\Caculator\calculator\Maytinh\obj\Debug\Maytinh.pdb
